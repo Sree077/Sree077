@@ -1,4 +1,4 @@
-# Welcome to My Devfolio Profile!
+# Welcome to My Github Profile!
 
 ## About Me
 Hello! I'm a second-year Computer Science student at AWH Engineering College, Kozhikode, specializing in Django backend development. I have a strong passion for solving complex problems using data structures and algorithms. My goal is to leverage my skills to create impactful technologies.
