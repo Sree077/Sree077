@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to My Devfolio Profile!
 
-<!--
-**Sree077/Sree077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I'm a second-year Computer Science student at AWH Engineering College, Kozhikode, specializing in Django backend development. I have a strong passion for solving complex problems using data structures and algorithms. My goal is to leverage my skills to create impactful technologies.
 
-Here are some ideas to get you started:
+## Projects
+- Saaya arts fest website: Developed website for our college arts fest Saaya .  [Saaya2k23](https://saaya23.netlify.app/)
+- Atom institution website: developing website for a coaching institution (under development). [atom institute](https://atominstitutions.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Technical**: C, Java, Python (Django), Data Structures and Algorithms,HTML/CSS, git/github
+- **Soft**: Effective communication, teamwork, problem-solving
+
+## Contact Me
+Feel free to reach out for collaborations or opportunities:
+- Email: sreenandankm7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sreenandankm/
+- GitHub: https://github.com/Sree077
