@@ -57,12 +57,12 @@ Hello! I’m **Sreenandan K M**, a passionate **4th‑year Computer Science & En
 
 ---
 
-## 📬 Let’s Connect!
+##  Let’s Connect!
 | Platform  | Link |
 |----------|------|
-| ✉️ Email    | [sreenandankm7@gmail.com](mailto:sreenandankm7@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/sreenandankm](https://www.linkedin.com/in/sreenandankm/) |
-| 🐙 GitHub   | [github.com/Sree077](https://github.com/Sree077) |
+| Email    | [sreenandankm7@gmail.com](mailto:sreenandankm7@gmail.com) |
+| LinkedIn | [linkedin.com/in/sreenandankm](https://www.linkedin.com/in/sreenandankm/) |
+| GitHub   | [github.com/Sree077](https://github.com/Sree077) |
 
 Feel free to reach out for **collaboration**, **internships**, or just to say hi! I’m always open to new opportunities.
 
