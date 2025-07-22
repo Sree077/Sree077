@@ -25,20 +25,26 @@ Hello! I’m **Sreenandan K M**, a passionate **4th‑year Computer Science & En
 
 ##  Skills
 ### Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-<!--   <img src="https://www.vectorlogo.zone/logos/djangorestframework/djangorestframework-icon.svg" height="40" alt="Django REST Framework" /> -->
+  &nbsp;&nbsp;
   <img src="https://img.icons8.com/ios7/512/FA5252/flask.png" height="40" alt="Flask" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-<!--   <img src="https://raw.githubusercontent.com/viniciusxyz/django-ninja-logo/main/logo/logo-black.png" height="40" alt="Django Ninja" /> -->
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
+
 
 
 
